@@ -1,0 +1,94 @@
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: left;
+}
+
+#header {
+  background-color: #888888;
+  height: 380px;
+  margin: 0px;
+  padding: 0px;
+}
+
+#nav {
+  height: 42px;
+  background-color: #888888;
+}
+
+#nav ul {
+  list-style-type: none;
+  height: 40px;
+  padding: 0px 10px;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+#nav li {
+  margin-left: 10px;
+  font-family: calibri;
+  font-size: 23px;
+}
+
+#nav a {
+  color: #00004B;
+  text-decoration: none;
+}
+
+body {
+  background-color: #C0C0C0;
+  margin: 0px;
+  padding: 0px;
+}
+
+#main {
+  overflow: auto;
+}
+
+#content {
+  float: left;
+}
+
+#side {
+  float: left;
+}
+
+.container aside {
+  color: white;
+  background-color: orangered;
+}
+
+.container .color {
+  color: orange;
+  background-color: black;
+}
+
+.container .color1 {
+  color: orange;
+  background-color: black;
+}
+
+.container .color2 {
+  color: black;
+  background-color: orange;
+}
+
+.container .color3 {
+  color: black;
+  background-color: orange;
+}
+
+h2, h3 {
+  font-family: calibri;
+  font-size: 25px;
+  color: black;
+}
+
+#table {
+  border="9px" cellpadding="6px" cellspacing="3px"
+}
+/*# sourceMappingURL=styles.css.map */

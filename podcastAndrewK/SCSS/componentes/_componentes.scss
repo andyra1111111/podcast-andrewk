@@ -1,0 +1,16 @@
+h2 {
+    
+    @extend %texto;
+    text-align:center;
+    
+} 
+
+h3 {
+    @extend %texto;
+    text-align:left;
+    
+}
+
+#table{
+    border="9px" cellpadding="6px" cellspacing="3px"
+}
